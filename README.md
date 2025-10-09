@@ -58,15 +58,25 @@ Kirkpatrick Evaluation – Reflection for learning outcome measurement.
 
 🧩 Learning Flow
 graph LR
+
 A[Explain Concept] --> B[Ask Sentiment]
+
 B --> C[Ask Rating]
+
 C --> D[Ask API]
+
 D --> E{Answer Correct?}
+
 E -->|Yes| F[Praise + Next Question]
+
 E -->|No| G[Apply 5 Whys Reflection]
+
 G --> H{Learner Corrects Self?}
+
 H -->|Yes| F
+
 H -->|No| I[Provide RCA Explanation]
+
 I --> F
 
 📚 Learning Outcomes
