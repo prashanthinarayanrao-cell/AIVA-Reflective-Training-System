@@ -126,14 +126,22 @@ After each answer, AIVA asks:
 This develops self-awareness and metacognitive growth, turning training into reflective learning.
 
 📂 Repository Contents
+
 📁 AIVA-Reflective-Training-System
 │
+
 ├── 📘 AIVA_Portfolio_Summary_RecruiterEdition.docx
+
 ├── 📄 AIVA_v2.1_Final_Instructions.docx
+
 ├── 🧠 AIVA_5Whys_RCA_Framework.docx
+
 ├── 🧩 AIVA_Concept_Starters_List.txt
+
 ├── 🎨 AIVA_Project_Image.png
+
 ├── 📊 AIVA_Instructional_Flowchart.pdf
+
 └── README.md
 
 👩‍💻 Author
