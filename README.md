@@ -44,11 +44,17 @@ Kirkpatrick Evaluation – Reflection for learning outcome measurement.
 ⚙️ Key Features
 
 ✅ 3-step adaptive questioning: Sentiment → Rating → API
+
 ✅ Guided reflection using 5 Whys
+
 ✅ RCA-based diagnostic feedback
+
 ✅ Adaptive difficulty with positive reinforcement
+
 ✅ Confidence self-rating (1–5 scale)
+
 ✅ Gamified point system & learner milestones
+
 
 🧩 Learning Flow
 graph LR
