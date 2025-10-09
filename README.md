@@ -1,5 +1,8 @@
 🧠 AIVA – Adaptive Instructional Validation Assistant
 🎓 An AI-powered Reflective Training System by an Instructional Designer
+
+https://chatgpt.com/g/g-68e7ac87e3688191b06e38c4affe0ccd-aiva-adaptive-instructional-validation-assistant
+
 💡 Overview
 
 AIVA (Adaptive Instructional Validation Assistant) is an AI-driven reflective learning system designed to simulate a human mentor’s approach to training.
