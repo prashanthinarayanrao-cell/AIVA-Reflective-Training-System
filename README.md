@@ -1,136 +1,135 @@
-🌟 AIVA – Adaptive Instructional Validation Assistant
-
-(An AI-powered Reflective Training System designed by an Instructional Designer)
-
+🧠 AIVA – Adaptive Instructional Validation Assistant
+🎓 An AI-powered Reflective Training System by an Instructional Designer
 💡 Overview
 
-AIVA (Adaptive Instructional Validation Assistant) is an AI-driven training framework created to simulate human-like mentoring through structured questioning, feedback, and guided reflection.
-Designed from the perspective of an Instructional Designer (ID), AIVA blends learning science, adaptive intelligence, and behavior-based feedback to help learners master analytical reasoning, conversational understanding, and API decision logic.
+AIVA (Adaptive Instructional Validation Assistant) is an AI-driven reflective learning system designed to simulate a human mentor’s approach to training.
+It blends Instructional Design principles, Root Cause Analysis (RCA), and the 5 Whys framework to help learners build analytical reasoning and decision-making accuracy.
 
-AIVA teaches how to think, not what to answer.
-It uses a structured learning loop that explains, questions, and reinforces concepts using Root Cause Analysis (RCA) and the 5 Whys method, turning every error into a moment of mastery.
+✨ AIVA teaches learners how to think, not just what to answer.
 
-🎯 Purpose and Instructional Goal
+🎯 Purpose
 
-To create an adaptive, feedback-driven learning system that:
+To create an adaptive, feedback-driven learning experience that:
 
-Strengthens reasoning and critical thinking.
+Strengthens reasoning and interpretation skills.
 
-Builds awareness of decision-making logic.
+Improves accuracy in AI–human conversation validation.
 
-Reinforces learning through reflection and correction.
+Builds learner reflection and self-correction through RCA and the 5 Whys.
 
-Demonstrates how AI can facilitate learner-centered instructional design.
+Demonstrates instructional innovation using AI-powered logic.
 
-🧠 Instructional Design Perspective
-
-As an Instructional Designer, this project demonstrates my ability to merge AI capabilities with instructional psychology to create emotionally intelligent, adaptive learning systems.
-
-Key Design Approaches:
-
-1️⃣ Cognitive Scaffolding – AIVA explains before testing, ensuring conceptual clarity.
-2️⃣ Guided Practice – Uses the 3-step questioning approach (Sentiment → Rating → API).
-3️⃣ Reflective Learning – Learners reason through 5 Why prompts to find their own answers.
-4️⃣ Positive Reinforcement – Encouragement replaces error judgment.
-5️⃣ Adaptive Challenge – Question difficulty increases or decreases based on performance.
-
-🧩 Core Instructional Strategies Used
-
-Explain → Ask → Reflect → Reinforce
-
-AIVA first teaches the concept, then quizzes, and finally reinforces learning through guided reasoning.
-
-Root Cause Analysis (RCA)
-
-Each learner error triggers a reasoning process to uncover why the mistake occurred — improving comprehension instead of rote memorization.
-
-5 Whys Framework
-
-Five progressive “why” questions prompt learners to reflect deeper, developing critical and metacognitive thinking.
-
-Positive Reinforcement
-
-AIVA uses supportive tone and reward-based feedback to sustain motivation and learner confidence.
-
-Adaptive Learning Loop
-
-The system dynamically adjusts question difficulty and feedback based on the learner’s performance, ensuring personalized learning.
-
+🧩 Instructional Design Strategy
+🎓 Strategy	💬 Description
+🧠 Explain → Ask → Reflect → Reinforce	The core learning cycle. AIVA explains, quizzes, and guides reflection.
+🔍 Root Cause Analysis (RCA)	Identifies why a learner made a mistake — improving reasoning, not rote memory.
+❓ 5 Whys Framework	Encourages deeper thought through progressive questioning.
+🌱 Adaptive Learning	Adjusts question difficulty based on learner’s performance.
+🌟 Positive Reinforcement	Uses encouragement and motivation to sustain engagement.
+🎮 Gamified Feedback	Learners earn points, badges, and progress levels.
 🧭 Instructional Frameworks Applied
 
-ADDIE Model: Structured design from analysis to evaluation.
+ADDIE Model – Structured development lifecycle.
 
-Bloom’s Taxonomy: Ensures questions move from recall to analysis and synthesis.
+Bloom’s Taxonomy – Progression from recall to analysis.
 
-Gagné’s Nine Events: Used for explanation, practice, and feedback flow.
+Gagné’s 9 Events of Instruction – Guidance, feedback, reinforcement.
 
-Kirkpatrick Evaluation: Reflection and confidence checks map to learning outcomes.
+Vygotsky’s ZPD – Personalized difficulty and scaffolding.
 
-Vygotsky’s ZPD: Challenges adapt within the learner’s comfort zone for sustained engagement.
+Kirkpatrick Evaluation – Reflection for learning outcome measurement.
 
-⚙️ Learning Experience Design Highlights
+⚙️ Key Features
 
-Structured Questioning Flow:
+✅ 3-step adaptive questioning: Sentiment → Rating → API
+✅ Guided reflection using 5 Whys
+✅ RCA-based diagnostic feedback
+✅ Adaptive difficulty with positive reinforcement
+✅ Confidence self-rating (1–5 scale)
+✅ Gamified point system & learner milestones
 
-Identify sentiment.
+🧩 Learning Flow
+graph LR
+A[Explain Concept] --> B[Ask Sentiment]
+B --> C[Ask Rating]
+C --> D[Ask API]
+D --> E{Answer Correct?}
+E -->|Yes| F[Praise + Next Question]
+E -->|No| G[Apply 5 Whys Reflection]
+G --> H{Learner Corrects Self?}
+H -->|Yes| F
+H -->|No| I[Provide RCA Explanation]
+I --> F
 
-Assign rating.
 
-Select API (based on intent).
+(Visual flow generated for recruiters to see system logic clearly.)
 
-Reflect via 5 Whys (if incorrect).
+📚 Learning Outcomes
 
-Behavioral Adaptation:
+Learners completing AIVA training will:
 
-3 correct → harder questions.
+✅ Accurately analyze customer–bot conversations.
 
-2 incorrect → simpler with hints.
+✅ Identify correct API logic for various intents.
 
-Feedback Loop:
+✅ Reflect on reasoning errors using RCA.
 
-Immediate, contextual feedback helps learners understand intent and reasoning.
+✅ Strengthen critical and metacognitive skills.
 
-Confidence Tracking:
+✅ Gain confidence through adaptive feedback loops.
 
-Learners self-assess on a 1–5 scale, enhancing metacognitive skills.
+🧩 Core Concepts
+💼 Domain	🧩 Related APIs
+🛍️ Product Discovery & Information	Retrieve_Product, Product Info, get_breakdown_values, get_clarifying_questions
+🎨 Product Exploration & Suggestions	Related Products, Show More Products
+💳 Purchase & Checkout Assistance	Add To Cart, Checkout
+💬 General & Non-Product Interactions	Non-Product Info, Irrelevant
+🎮 Gamified Levels
+Points	Level	Description
+10	🧩 Beginner	Understands basic conversation types
+25	🚀 Explorer	Applies logic across varied scenarios
+50	🎯 Specialist	Consistently uses correct APIs
+100	👑 Master Annotator	Expert in reasoning, reflection, and analysis
+🧠 Root Cause Analysis (RCA) Example
 
-Gamified Progress:
+❌ Learner selected “show_more” for a related product query.
+🧩 AIVA Feedback:
+“The confusion arose because you focused on quantity (‘show more’) instead of similarity (‘get_related’). This is a conceptual, not contextual, error — a great opportunity to refine your reasoning.”
 
-Learners earn points and levels (Beginner → Explorer → Specialist → Master Annotator).
+🌱 Confidence Check
 
-🔍 Key Learning Outcomes
+After each answer, AIVA asks:
 
-Learners trained through AIVA are able to:
+“On a scale of 1–5, how confident are you about your response?”
 
-Interpret customer–bot conversations accurately.
+This develops self-awareness and metacognitive growth, turning training into reflective learning.
 
-Choose the right API logic based on intent.
+📂 Repository Contents
+📁 AIVA-Reflective-Training-System
+│
+├── 📘 AIVA_Portfolio_Summary_RecruiterEdition.docx
+├── 📄 AIVA_v2.1_Final_Instructions.docx
+├── 🧠 AIVA_5Whys_RCA_Framework.docx
+├── 🧩 AIVA_Concept_Starters_List.txt
+├── 🎨 AIVA_Project_Image.png
+├── 📊 AIVA_Instructional_Flowchart.pdf
+└── README.md
 
-Diagnose reasoning errors through reflection.
+👩‍💻 Author
 
-Build analytical thinking skills essential for AI QA tasks.
+Prashanthi Rao
+🎓 Instructional Designer | AI Learning Strategist
+💬 “I design intelligent learning experiences that teach people how to think — not just what to answer.”
 
-Develop confidence through positive, adaptive feedback.
+🌐 Connect
 
-💬 Instructional Scenario Examples
+🔗 LinkedIn Profile
 
-Product Discovery & Information: Learners identify correct APIs for product-specific queries.
+🌍 Portfolio Website
 
-Product Exploration & Suggestions: Learners differentiate between “get_related” and “show_more.”
+📧 [Email Address (optional)]
 
-Purchase & Checkout Assistance: Learners practice identifying transaction-based APIs.
+🏁 License
 
-General & Non-Product Interactions: Learners separate business policy questions from irrelevant chatter.
+This project is open for educational and portfolio display under the MIT License.
 
-These scenarios teach not only decision-making accuracy but contextual understanding, mirroring real-world conversation patterns.
-
-🧩 Root Cause Analysis (RCA) as Instructional Feedback
-
-RCA is the backbone of AIVA’s reflective learning process.
-Each wrong answer triggers a structured reflection, uncovering the learner’s underlying misconception.
-
-Example RCA Path:
-
-“The confusion occurred because you focused on quantity (‘show more’) instead of similarity (‘get_related’). This is a conceptual error — not a lack of understanding, but a focus shift.”
-
-By identifying the reasoning gap, AIVA transforms mistakes into teachable insights.
