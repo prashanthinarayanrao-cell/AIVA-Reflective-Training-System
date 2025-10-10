@@ -9,7 +9,7 @@
 
 ## <font color="#FF7F50">1. Concept Overview</font>
 
-The **Guideline Intelligence Agent (GIA)** is an **AI-powered Reflective Training and Analysis System** designed to process **uploaded client guideline documents** and intelligently **analyze their text content**.  
+The **Guideline Intelligence Agent (GIA)** is an **AI-powered Reflective Training and Analysis System** designed to process **uploaded guideline documents** and intelligently **analyze their text content**.  
 
 GIA’s objective is to identify **Easy, Moderate, Difficult, Edge, and Grey areas** in the guidelines and guide teams to **reflect, discuss, and improve document clarity and consistency**.  
 
@@ -24,7 +24,7 @@ It functions as a **learning and quality-assurance engine**, enabling organizati
 ## <font color="#00FA9A">2. Workflow Overview</font>
 
 ### <font color="#32CD32">Step 1 — Upload</font>
-Users upload client guideline documents (PDF, Word, or text format) to the GIA interface.  
+Users upload guideline documents (PDF, Word, or text format) to the GIA interface.  
 
 ### <font color="#00CED1">Step 2 — Text Analysis</font>
 The AI engine performs a **semantic and structural analysis** of the text, identifying:
@@ -91,14 +91,14 @@ The GIA system promotes **reflective learning through document analysis**, ensur
 
 ---
 
-## <font color="#1E90FF">6. Example Scenario — Client Guideline Upload</font>
+## <font color="#1E90FF">6. Example Scenario —  Guideline Upload</font>
 
 | **Stage** | **System Behavior** |
 |:-----------|:--------------------|
 | A guideline file is uploaded by the project manager | GIA reads the text and segments content into logical sections |
 | AI detects certain ambiguous lines | Highlights phrases like “as per usual conditions” or “in exceptional cases” |
 | GIA classifies them as **Grey areas** | Generates reflection questions such as “What exceptions are covered here?” |
-| User adds clarification notes or requests client feedback | GIA logs resolution status as *clarified* |
+| User adds clarification notes or requests the feedback | GIA logs resolution status as *clarified* |
 | Updated guideline re-uploaded | GIA compares old and new versions to confirm improved clarity |
 
 **Result:**  
@@ -130,7 +130,7 @@ The **GIA Reflective Training System** is built on a multi-layered AI architectu
 |:-----------|:-------------|
 | Guideline Quality Evaluation | Detect unclear instructions and improve document precision |
 | Training & Onboarding | Train new teams using reflective guideline interpretation |
-| Process Compliance | Validate whether guidelines meet project or client standards |
+| Process Compliance | Validate whether guidelines meet project standards |
 | AI Model Validation | Use guideline analysis as training data for QA model tuning |
 | Policy Document Review | Apply reflection logic to legal, operational, or safety policies |
 
@@ -153,7 +153,7 @@ Through RI, GIA transforms document analysis into a reflective learning process 
 ## <font color="#8A2BE2">10. Reflective Report Example</font>
 
 **Guideline Intelligence Agent — Reflective Session Summary**  
-**Document:** “Client Onboarding Workflow Guidelines”  
+**Document:** “ Onboarding Workflow Guidelines”  
 **Session Type:** Text Clarity Analysis  
 **Date:** October 10, 2025  
 
@@ -167,7 +167,7 @@ Through RI, GIA transforms document analysis into a reflective learning process 
 **Insights:**  
 - Frequent Cause of Ambiguity: Overlapping condition statements  
 - Recommended Action: Define exception boundaries clearly  
-- Reflection Impact: Enhanced understanding of client intent  
+- Reflection Impact: Enhanced understanding of the intent  
 
 ---
 
