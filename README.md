@@ -1,6 +1,8 @@
 # AIVA – Adaptive Instructional Validation Assistant  
 ### Project Title: AIVA Reflective Training System  
 #### Tagline: "Learn, Reflect, and Apply — The Smart Way to Master AI Workflows"
+**Name: Prashanthi Rao**
+**LinkedIn  Profile: https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b**
 
 ---
 
