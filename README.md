@@ -187,7 +187,7 @@ Through RI, GIA transforms document analysis into a reflective learning process 
 
 ## Contact & Collaboration
 
-**Email:** *[Add your contact email here]*  
+**Email:** *nrao.prashanthi@gmail.com@gmail.com*  
 **Website:** *Coming Soon — GIA Reflective Training Portal*  
 **Version:** 1.0 | **Author:** Prashanthi Rao  
 
